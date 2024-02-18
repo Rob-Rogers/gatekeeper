@@ -1,0 +1,4 @@
+This project will be complete after the rewrite of cybersupervisor the honeypot solution.
+It will detect ransomware activities on a file server. And automaticly block the infected PC and offer the administrator the ability to revert the changes. 
+
+Expected to start on the project around June 2024. Estimatied completion will be November 2024.
